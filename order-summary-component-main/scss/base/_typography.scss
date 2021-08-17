@@ -1,0 +1,17 @@
+@use '../utilities' as *;
+
+h1,
+h2,
+h3 {
+  margin-top: 0;
+}
+
+a,
+a:active,
+a:visited {
+  text-decoration: none;
+}
+
+p {
+  font-size: rem(16);
+}

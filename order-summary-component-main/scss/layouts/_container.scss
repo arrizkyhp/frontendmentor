@@ -1,0 +1,12 @@
+@use 'utilities' as *;
+
+.container {
+  background: #fff;
+  border-radius: rem(20);
+  overflow: hidden;
+  max-width: rem(380);
+
+  @include breakpoint-max(Mobile) {
+    margin: 0 rem(20);
+  }
+}
