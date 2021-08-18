@@ -4,6 +4,7 @@
   display: flex;
   border-radius: rem(5);
   overflow: hidden;
+  max-width: rem(1100);
   margin: 0 rem(200);
 
   @include breakpoint-max(Tablet) {

@@ -16,7 +16,7 @@
     h1 {
       font-family: $font-inter;
       font-weight: 700;
-      font-size: rem(42);
+      font-size: rem(37);
 
       span {
         color: $soft-violet;
@@ -49,12 +49,12 @@
     justify-content: space-between;
 
     &__info {
-      // margin-right: rem(60);
+      padding-right: rem(50);
 
-      h3 {
+      h2 {
         color: $white;
-        font-weight: 400;
-        font-size: rem(20);
+        font-weight: 700;
+        font-size: rem(23);
 
         @include breakpoint-max(Mobile) {
           font-size: rem(25);
@@ -76,6 +76,10 @@
           margin-bottom: rem(30);
         }
       }
+    }
+
+    @include breakpoint-max(Tablet) {
+      // padding-right: 0;
     }
 
     @include breakpoint-max(Mobile) {
