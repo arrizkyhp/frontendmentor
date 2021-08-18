@@ -1,8 +1,6 @@
 $breakpoints: (
-  "x-small": 576px,
-  "small": 767px,
-  "medium": 992px,
-  "large": 1200px,
+  "Mobile": 375px,
+  "Desktop": 14400px,
 );
 
 @mixin breakpoint-max($size) {
@@ -16,5 +14,3 @@ $breakpoints: (
     @content;
   }
 }
-
-// usage

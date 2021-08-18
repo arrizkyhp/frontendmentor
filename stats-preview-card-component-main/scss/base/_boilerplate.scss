@@ -11,5 +11,14 @@ html {
   box-sizing: inherit;
   padding: 0;
   margin: 0;
-  font-family: $font-roboto;
+}
+
+body {
+  @include centering();
+  font-family: $font-inter;
+  font-size: rem(15);
+  background: $very-dark-blue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
