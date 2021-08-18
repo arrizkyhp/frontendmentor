@@ -45,6 +45,7 @@
       align-items: left;
 
       &__icon {
+        margin-right: rem(15);
         @include breakpoint-max(Mobile) {
           margin-right: rem(13);
         }

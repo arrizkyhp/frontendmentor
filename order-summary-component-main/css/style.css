@@ -83,6 +83,9 @@ p {
   padding: 0.9375rem 1.25rem;
   align-items: left;
 }
+.main__content__plan__icon {
+  margin-right: 0.9375rem;
+}
 @media (max-width: 375px) {
   .main__content__plan__icon {
     margin-right: 0.8125rem;
