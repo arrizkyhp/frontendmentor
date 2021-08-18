@@ -5,6 +5,7 @@
   border-radius: rem(20);
   overflow: hidden;
   max-width: rem(380);
+  box-shadow: 0 20px 25px rgba($color: $bright-blue, $alpha: 0.2);
 
   @include breakpoint-max(Mobile) {
     margin: 0 rem(20);
