@@ -76,6 +76,10 @@
           margin-bottom: rem(30);
         }
       }
+
+      @include breakpoint-max(Mobile) {
+        padding-right: rem(0);
+      }
     }
 
     @include breakpoint-max(Tablet) {

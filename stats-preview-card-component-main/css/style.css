@@ -147,6 +147,11 @@ a:visited {
   }
 }
 @media (max-width: 576px) {
+  .card__stats__info {
+    padding-right: 0rem;
+  }
+}
+@media (max-width: 576px) {
   .card__stats {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
