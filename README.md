@@ -9,3 +9,5 @@
 - [Profile card ](https://github.com/arrizkyhp/profile-card-component-main) | Html & CSS | ReactJS, Scss, GulpJS, BEM ✅
 
 - [FAQ accordion card](https://github.com/arrizkyhp/faq-accordion-card-main) | Html & CSS | ReactJS, Scss, GulpJS, BEM ✅
+
+- [Social proof section](https://github.com/arrizkyhp/fm-social-proof-section) | Html & CSS | ReactJS, Scss, GulpJS, BEM ✅
