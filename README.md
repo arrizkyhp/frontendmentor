@@ -1,7 +1,7 @@
 ## Frontend Mentor Challenges
 
 <p align="center">
-<img src="fm-logo-2.png" width="400">
+<img src="assets/images/fm-logo-2.png" width="400">
 </p>
 
 ---
