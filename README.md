@@ -1,13 +1,10 @@
 # Frontend Mentor Challenges
 
-<center>
-<img src="fm-logo-2.png" width="200">
+<img src="fm-logo-2.png" width="400">
 
-<br>
-👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">
-arrizkyhp
-</a>
-</center>
+---
+
+👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a>
 
 ---
 
