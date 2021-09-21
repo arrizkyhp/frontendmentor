@@ -1,4 +1,4 @@
-p# Frontend Mentor Challenges
+## Frontend Mentor Challenges
 
 <p align="center">
 <img src="fm-logo-2.png" width="400">
