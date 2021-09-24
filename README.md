@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a> | ✅ 8 Challenges
+👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a> | ✅ 9 Challenges
 </p>
 
 ---
