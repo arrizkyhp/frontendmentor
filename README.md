@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a> | ✅ 11 Challenges
+👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a> | ✅ 12 Challenges
 </p>
 
 ---
@@ -25,3 +25,4 @@
 | **Base Apparel coming soon page**     | Html, CSS, JavaScript  | ReactJS, Scss, GulpJS, BEM | [ Code](https://github.com/arrizkyhp/fm-base-apparel-coming-soon)         | [ Live Site](https://arrizkyhp.github.io/fm-base-apparel-coming-soon/)         |
 | **Intro component with sign up form** | Html, CSS, JavaScript  | ReactJS, Scss, GulpJS, BEM | [ Code](https://github.com/arrizkyhp/fm-intro-component-with-signup-form) | [ Live Site](https://arrizkyhp.github.io/fm-intro-component-with-signup-form/) |
 | **Single price grid component**       | Html, CSS              | ReactJS, Scss, GulpJS, BEM | [ Code](https://github.com/arrizkyhp/fm-single-price-grid-component)      | [ Live Site](https://arrizkyhp.github.io/fm-single-price-grid-component/)      |
+| **Ping coming soon page**             | Html, CSS, JavaScript  | ReactJS, Scss, GulpJS, BEM | [ Code](https://github.com/arrizkyhp/fm-ping-coming-soon-page)            | [ Live Site](https://arrizkyhp.github.io/fm-ping-coming-soon-page/)            |
