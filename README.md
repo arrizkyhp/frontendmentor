@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a> | ✅ 18 Challenges
+👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a> | ✅ 19 Challenges
 </p>
 
 ---
@@ -30,7 +30,6 @@
 | **Time tracking dashboard**                              | Html, CSS & JavaScript | ReactJS, RTL & Jest, Scss, GulpJS, BEM    | [ Code](https://github.com/arrizkyhp/fm-time-tracking-dashboard)                 | [ Live ](https://arrizkyhp.github.io/fm-time-tracking-dashboard/)                 |
 | **Tip calculator app**                                   | Html, CSS & JavaScript | ReactJS, Jest & Enzyme, Scss, GulpJS, BEM | [ Code](https://github.com/arrizkyhp/fm-tip-calculator-app)                      | [ Live ](https://arrizkyhp.github.io/fm-tip-calculator-app/)                      |
 | **Sunnyside agency landing page**                        | Html, CSS & JavaScript | ReactJS, Scss, GulpJS, BEM                | [ Code](https://github.com/arrizkyhp/fm-sunnyside-agency-landing-page)           | [ Live ](https://arrizkyhp.github.io/fm-sunnyside-agency-landing-page/)           |
-| **Blogr landing page**                        | Html, CSS & JavaScript | ReactJS, Scss, GulpJS, BEM                | [ Code](https://github.com/arrizkyhp/fm-blogr-landing-page)           | [ Live ](https://arrizkyhp.github.io/fm-blogr-landing-page/)           |
-| **Crowdfunding product page solution**                        | Html, CSS & JavaScript | ReactJS, TailwindCss                | [ Code](https://github.com/arrizkyhp/fm-crowdfunding-product-page)           | [ Live ](https://arrizkyhp.github.io/fm-crowdfunding-product-page/)           |
-
-
+| **Blogr landing page**                                   | Html, CSS & JavaScript | ReactJS, Scss, GulpJS, BEM                | [ Code](https://github.com/arrizkyhp/fm-blogr-landing-page)                      | [ Live ](https://arrizkyhp.github.io/fm-blogr-landing-page/)                      |
+| **Crowdfunding product page solution**                   | Html, CSS & JavaScript | ReactJS, TailwindCss                      | [ Code](https://github.com/arrizkyhp/fm-crowdfunding-product-page)               | [ Live ](https://arrizkyhp.github.io/fm-crowdfunding-product-page/)               |
+| **Interactive pricing component**                        | Html, CSS & JavaScript | ReactJS, TailwindCss                      | [ Code](https://github.com/arrizkyhp/fm-interactive-pricing-component)           | [ Live ](https://arrizkyhp.github.io/fm-interactive-pricing-component/)           |
