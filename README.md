@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a> | ✅ 19 Challenges
+👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a> | ✅ 20 Challenges
 </p>
 
 ---
@@ -33,3 +33,4 @@
 | **Blogr landing page**                                   | Html, CSS & JavaScript | ReactJS, Scss, GulpJS, BEM                | [ Code](https://github.com/arrizkyhp/fm-blogr-landing-page)                      | [ Live ](https://arrizkyhp.github.io/fm-blogr-landing-page/)                      |
 | **Crowdfunding product page solution**                   | Html, CSS & JavaScript | ReactJS, TailwindCss                      | [ Code](https://github.com/arrizkyhp/fm-crowdfunding-product-page)               | [ Live ](https://arrizkyhp.github.io/fm-crowdfunding-product-page/)               |
 | **Interactive pricing component**                        | Html, CSS & JavaScript | ReactJS, TailwindCss                      | [ Code](https://github.com/arrizkyhp/fm-interactive-pricing-component)           | [ Live ](https://arrizkyhp.github.io/fm-interactive-pricing-component/)           |
+| **Loopstudios landing page**                             | Html, CSS & JavaScript | ReactJS, TailwindCss                      | [ Code](https://arrizkyhp.github.io/fm-loopstudios-landing-page/)                | [ Live ](https://arrizkyhp.github.io/fm-interactive-pricing-component/)           |
