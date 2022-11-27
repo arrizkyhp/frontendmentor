@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a> | ✅ 20 Challenges
+👩‍🚀<a href="https://www.frontendmentor.io/profile/arrizkyhp">arrizkyhp</a> | ✅ 21 Challenges
 </p>
 
 ---
@@ -34,3 +34,4 @@
 | **Crowdfunding product page solution**                   | Html, CSS & JavaScript | ReactJS, TailwindCss                      | [ Code](https://github.com/arrizkyhp/fm-crowdfunding-product-page)               | [ Live ](https://arrizkyhp.github.io/fm-crowdfunding-product-page/)               |
 | **Interactive pricing component**                        | Html, CSS & JavaScript | ReactJS, TailwindCss                      | [ Code](https://github.com/arrizkyhp/fm-interactive-pricing-component)           | [ Live ](https://arrizkyhp.github.io/fm-interactive-pricing-component/)           |
 | **Loopstudios landing page**                             | Html, CSS & JavaScript | ReactJS, TailwindCss                      | [ Code](https://github.com/arrizkyhp/fm-loopstudios-landing-page)                | [ Live ](https://arrizkyhp.github.io/fm-loopstudios-landing-page/)           |
+| **Testimonials grid section solution**                             | Html, CSS & JavaScript | NextJS, TailwindCss, Scss                    | [ Code](https://github.com/arrizkyhp/fm-testimonials-grid-section)                | [ Live ](https://fm-testimonials-grid-section-one.vercel.app/)           |
